@@ -2,7 +2,10 @@
 
 ## Overview
 
-The Meme Generator is a React application that allows users to create memes by adding custom text to random meme images. The app fetches meme templates from an API and provides an interface to input top and bottom text, which is then overlaid on the selected meme image.
+The Meme Generator is a React application that allows users to create memes by adding custom text to random meme images. The app fetches meme templates from an API and provides an interface to input top and bottom text, which is then overlaid on the selected meme image. <br>
+
+## Live Demo <br>
+https://memegeneratortayyab.netlify.app/
 
 ## Features
 
